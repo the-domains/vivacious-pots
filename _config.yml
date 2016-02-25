@@ -1,0 +1,14 @@
+layout_spectrum: 0.377003
+typography_spectrum: 0.8821085
+color:
+  saturation: 0.9123594
+  lightness: 0.4433915
+  brandStrength: 0.7302805
+  rhythmicContrast: 0.8724172
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Vivacious Pots
