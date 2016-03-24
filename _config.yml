@@ -1,14 +1,26 @@
-layout_spectrum: 0.377003
-typography_spectrum: 0.8821085
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.9123594
+  brandStrength: 0.7700501
   lightness: 0.4433915
-  brandStrength: 0.7302805
-  rhythmicContrast: 0.8724172
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#1E0E05'
+    - '#B36531'
+    - '#773916'
+    - '#E0AB6E'
+    - '#FFF9F2'
+  rhythmicContrast: 0.8724172
+typography_spectrum: 0.1052632
+layout_spectrum: 0.9392231
 name: Vivacious Pots
