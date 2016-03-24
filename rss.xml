@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Vivacious Pots]]></title>
         <description><![CDATA[Vivacious Pots]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vivacious-pots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 11:33:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 11:33:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vivacious-pots/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c82e7c9-969a-4f2b-8ce5-d567f3b06df9.png">]]></description>
+            <link>https://thegrid.ai/vivacious-pots/0f4ce89c-f2cf-469e-9b69-9f067721b6df/index.html</link>
+            <guid isPermaLink="false">0f4ce89c-f2cf-469e-9b69-9f067721b6df</guid>
+            <pubDate>Thu, 24 Mar 2016 11:32:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New work from old]]></title>
             <description><![CDATA[<article><h1>New work from old</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4420207-7184-4d19-bd48-25f426acf3f4.png"></article>]]></description>
-            <link>undefinednew-work-from-old/index.html</link>
+            <link>https://thegrid.ai/vivacious-pots/new-work-from-old/index.html</link>
             <guid isPermaLink="false">aa4f7c1e-2614-4d85-92e6-d2294567aab6</guid>
             <pubDate>Thu, 24 Mar 2016 11:32:51 GMT</pubDate>
         </item>
